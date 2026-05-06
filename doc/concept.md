@@ -74,5 +74,5 @@ Docker має ліцензійні обмеження для комерційн�
 ```bash
 k3d cluster create asciiartify
 
-##Demo
+##Demo Recording
 https://asciinema.org/a/t5hUDV67xV6Ta4Y4
